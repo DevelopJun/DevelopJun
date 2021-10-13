@@ -6,7 +6,7 @@
 > 
 > My goal as a developer is to become a full-stack developer(can develop both front-end and backend.) 
 > 
-> I majored in computer engineering at Yonsei University(Mirae Campus) in Korea and venture at Sinchon Campus, and I am very interested in starting a startup. 💻🦶
+> I majored in computer engineering at Yonsei University(Mirae Campus) in Korea and venture(Sinchon Campus), and I am very interested in starting a startup. 💻🦶
 >
 > I think programming is not just a means of coding, but a means of solving numerous problems in society, and I am trying to create an innovative company that solves many problems with IT technology in the future.
 
