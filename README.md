@@ -29,4 +29,8 @@
 <img alt="Naver" src ="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/> 👉 https://blog.naver.com/llovejune97 
 
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevelopJun&theme=nord&show_icons=true)
+<br/>
+<br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevelopJun&theme=dark&show_icons=true)
